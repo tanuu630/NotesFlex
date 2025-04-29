@@ -1,4 +1,5 @@
 My React Project
+
 This project was created using Create React App as the foundation. It’s a fully functional React application designed to be highly responsive and interactive.
 
 Available Scripts
